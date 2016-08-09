@@ -1,0 +1,21 @@
+{
+  "name": "tfg_gis_server_node",
+  "version": "1.0.0",
+  "description": "Source Code to TCP Node Server",
+  "main": "server1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://maldicion069@bitbucket.org/maldicion069/tfg_gis_server_node.git"
+  },
+  "author": "Cristian Rodriguez Bernal",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^0.9.0",
+    "clone": "^1.0.0",
+    "locks": "^0.1.0",
+    "mysql": "^2.5.4"
+  }
+}

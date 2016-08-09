@@ -1,0 +1,5 @@
+{"Action": "move", "Pos": {"X": 1792, "Y": 642}}
+{"Action": "exit"}
+{"Action": "remObj", "key": "yellow"}
+{"Action": "freeObj", "key": {"id": "yellow", "x": 100, "y": 200}}
+{"Action": "fight", "id_enemy": 62037}
